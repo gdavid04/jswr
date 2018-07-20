@@ -29,5 +29,5 @@ Don't try to read or contribute to the meta edition.
 It's generated from the normal (developer) edition's code using the normal (developer) edition.
 
 ## Is the normal (developer) edition available too?
-Yes, there is!  
+Yes, it is!  
 And it's very readable.
