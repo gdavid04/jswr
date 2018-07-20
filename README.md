@@ -1,0 +1,2 @@
+# jswr
+JavaScript Weirdifier
