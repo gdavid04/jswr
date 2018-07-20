@@ -6,6 +6,8 @@ JSWR is
 - a little program to show how weird JS is
 - an obfuscation tool that generates perfectly valid and unreadable code from numbers or strings
 
+__Check out the examples__ at `examples.md`
+
 ## How it works?
 You need `jswr.js` (or `meta.js` if you want the gigantic obfuscated version - you probably don't, it's really really bigger)  
 The syntax is easy:
